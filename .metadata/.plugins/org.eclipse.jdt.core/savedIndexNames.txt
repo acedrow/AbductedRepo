@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\Linden\Documents\GitHub\LPEGame\.metadata\.plugins\org.eclipse.jdt.core
